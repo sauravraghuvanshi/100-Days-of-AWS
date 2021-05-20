@@ -22,3 +22,9 @@ In this Repository, I am going to mention my AWS Learning approach for Next 100 
 * **Ingeration:-** Combine one thing with another to form a whole
 * **Deployment:-** The action of bringing into effective action
 
+### Benefits of CI/CD:-
+* Build faster
+* Decrease code review time
+* Automatic
+* Faster fault isolation
+* Additional deployment feature
