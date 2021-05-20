@@ -13,3 +13,7 @@ In this Repository, I am going to mention my AWS Learning approach for Next 100 
 * Domain 5: Incident and Event Response 18%
 * Domain 6: High Availability, Fault Tolerance and Disaster Recovery 16%
 
+# Domain 1: SDLC Automation:-
+
+## Day-2:-
+
