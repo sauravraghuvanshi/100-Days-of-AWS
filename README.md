@@ -17,3 +17,8 @@ In this Repository, I am going to mention my AWS Learning approach for Next 100 
 
 ## Day-2:-
 
+### What is CI/CD?
+* **Continious:-** Forming a series with no exceptions or reversals
+* **Ingeration:-** Combine one thing with another to form a whole
+* **Deployment:-** The action of bringing into effective action
+
